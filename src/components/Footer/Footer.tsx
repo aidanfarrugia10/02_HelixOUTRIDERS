@@ -41,10 +41,7 @@ export default function Footer() {
           ENDORSEMENT OF ANY TRADEMARK OWNER.
         </p>
 
-        {/* Ratings badge placeholder — replace src with your ESRB/PEGI asset */}
-        <div className="ft__rating">
-          <img src="src/Images/17+Warningtag.svg" alt="Mature 17+ – Blood, Violence, Strong Language" />
-        </div>
+       
       </div>
 
       {/* Bottom bar */}
